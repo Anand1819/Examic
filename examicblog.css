@@ -1,0 +1,60 @@
+*{
+margin: 0;
+padding: 0px;
+}
+
+.blog{
+display:flex;
+background-color: black;
+height: 70px;
+gap: 20px;
+}
+
+.blog h1{
+color: whitesmoke;
+        
+
+}
+
+ul,li,a{
+display: inline-block;
+margin-left: 20px;
+padding-top: 10px;
+color: white;
+text-decoration: none;
+font-weight: medium;
+font-size: large;
+}
+ul{
+margin-left: 45%;
+
+}
+
+.blog1{
+
+text-align: center;
+margin-top: 50px;
+font-size: large;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+}
+
+.blog1{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
