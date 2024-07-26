@@ -47,8 +47,9 @@ margin-top: 20px;
 
 .nav a:hover{
 text-decoration: underline;
-color: grey;
-text-decoration: line-through;
+color: rgb(250, 235, 235);
+
+
 }
 
 .ex{
@@ -352,6 +353,13 @@ font-size: small;
 padding: 20px 100px;
 
 }
+.foot a{
+margin-left: 20px;
+height: max-content;
 
-.
+}
+.foot a:hover{
+color: aquamarine;
+
+}
 
